@@ -10,7 +10,7 @@ const places = [
   {
     title: 'CryptoCoin',
     description:
-      'En este sitio utilice a API CoinGecko. Con la ayuda del framework Bootstrap, pude diseñar la interfaz grafica y la libreria Axios para manipular la api pública. Se trata de un sitio que muestra en tiempo real el valor de las diferentes cryptomonedas, como asi tambien, realizar busquedas especificas. El Deploy es en la plataforma Netlify.',
+      'En este sitio utilice la API CoinGecko. Con la ayuda del framework Bootstrap, pude diseñar la interfaz grafica y con la libreria Axios realice la manipulacion de la api pública. Se trata de un sitio que muestra en tiempo real el valor de las diferentes cryptomonedas y tambien, realiza busquedas especificas. El Deploy es en la plataforma Netlify.',
     imageUrl: process.env.PUBLIC_URL + '/assets/CryptoCoin.jpg',
     time: 1500,
     urlDirection:'https://cryptocoin-calderondev.netlify.app'
